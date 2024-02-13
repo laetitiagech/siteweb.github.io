@@ -1,0 +1,23 @@
+
+.btn {
+    display: inline-block;
+    background: #f8c969;
+    color: #ffffff;
+    padding: 20px 30px;
+    margin: 20px 0;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background: #f8c969;
+}
+
+
+#reservations {
+    background: #333;
+    color: #ffffff;
+    padding: 20px;
+    margin: 30px 0;
+}
+

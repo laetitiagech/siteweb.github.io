@@ -1,0 +1,12 @@
+.banner {
+    background: url(images/image1.png);
+    background-position: center;
+    color: #ffffff;
+    align-items: center;
+    text-align: center;
+}
+
+
+.banner{
+    padding: 200px;
+}

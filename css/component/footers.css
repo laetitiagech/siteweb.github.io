@@ -1,0 +1,41 @@
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #ffffff;
+    color: #333;    
+}
+
+.footer {
+    background-color: black;
+    padding: 24px;
+    color: white;
+    flex-direction: column;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  
+  .footer a {
+    color: rgb(245, 245, 245);
+    font-size: 32px;
+  }
+
+
+  
+  .list-inline {
+    list-style: none;
+    padding-left: 0px;
+  }
+  
+  .list-inline li {
+    display: inline;
+    padding: 0px 8px;
+  }
+   
+  
+  #features {
+    padding: 64px 0px;
+  }

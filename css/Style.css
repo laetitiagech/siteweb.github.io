@@ -1,0 +1,46 @@
+@import url(component/banner.css);
+@import url(component/button.css);
+@import url(component/cards.css);
+@import url(component/footers.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 90%;
+    font-family: courier, monospace;
+}
+
+body {
+    
+    color: #fcfcfc;
+    background-color: #333;
+    padding: 20px;
+    text-justify: justify;
+}
+h1 {
+    font-size: 50px
+    
+}   
+
+h2 {
+    color: white;
+    font-size: 30px;
+    
+}
+
+#reservations {
+    background: #333;
+    color: #ffffff;
+    padding: 20px;
+    margin: 30px 0;
+}
+
+
+
+   
+
+
